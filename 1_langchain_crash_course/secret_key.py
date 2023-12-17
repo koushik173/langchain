@@ -1,0 +1,2 @@
+openapi_key = ""
+serpapi_key = "5aad7363c865e81b95ef714b5b83509261326dcfb7959f69128988af1668ac24"
